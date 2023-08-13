@@ -1,1 +1,1 @@
-# tsr-ocr
+# Table Structure Recognition using OCR
